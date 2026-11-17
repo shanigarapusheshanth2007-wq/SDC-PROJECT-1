@@ -1,21 +1,12 @@
-# Dataset
 *.csv
-
-# Python cache
-__pycache__/
+**/__pycache__/
 *.pyc
-
-# Virtual environment
 venv/
 .venv/
-
-# Model files
 *.pkl
 *.joblib
-
-# Environment variables
 .env
-
-# IDE
+.DS_Store
+**/catboost_info/
 .idea/
 .vscode/
