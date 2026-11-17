@@ -1,0 +1,21 @@
+# Dataset
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Model files
+*.pkl
+*.joblib
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
